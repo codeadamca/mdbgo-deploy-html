@@ -6,6 +6,6 @@ To deply a sample HTML webpage to an MDBGO server follow these steps:
 
 2. Using NPM install the MDBGO CLI (Command Line Interfact):
 
-```console
-$ npm install -g mdb-cli
+```sh
+npm install -g mdb-cli
 ```
