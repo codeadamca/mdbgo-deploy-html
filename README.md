@@ -30,11 +30,11 @@ To deply a sample HTML webpage to an MDB GO server follow these steps:
 
 5. Deploy the project:
 
-  ```sh
-  mdb publish
-  ```
+    ```sh
+    mdb publish
+    ```
   
-  If yo don't have a `package.json` file, This process will walk you through creating one and then deploy the applicationand profide you a working URL. 
+If you don't have a `package.json` file, This process will walk you through creating one and then deploy the applicationand profide you a working URL. 
   
   You can customiz the URL using:
   
