@@ -1,4 +1,4 @@
-# Deploying HTML to a MDB GO server
+# Deploying HTML to an MDB GO server
 
 To deply a sample HTML webpage to an MDB GO server follow these steps:
 
