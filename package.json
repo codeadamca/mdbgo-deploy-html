@@ -1,0 +1,24 @@
+{
+  "name": "mdbgo-deploy-html",
+  "version": "1.0.0",
+  "description": "A sample HTML webpage deployed to a MDBGO server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeadamca/mdbgo-deploy-html.git"
+  },
+  "keywords": [
+    "mdbgo",
+    "deploy",
+    "html"
+  ],
+  "author": "codeadamca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeadamca/mdbgo-deploy-html/issues"
+  },
+  "homepage": "https://github.com/codeadamca/mdbgo-deploy-html#readme"
+}

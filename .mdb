@@ -1,0 +1,8 @@
+{
+  "projectName": "mdbgo-deploy-html",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "850c621b"
+}
