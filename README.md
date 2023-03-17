@@ -44,7 +44,7 @@ To deply a sample HTML webpage to an MDB GO server follow these steps:
   
     ![Deployed](https://raw.githubusercontent.com/codeadamca/mdbgo-deploy-html/main/_readme/screenshot-deployed.png)
     
-This repository is available at https://mdbgo-deploy-html.mdbgo.io!
+This repository is available to view on [MDB GO](https://mdbgo.com/) at https://mdbgo-deploy-html.mdbgo.io!
   
 ***
 
