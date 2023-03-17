@@ -4,6 +4,8 @@ To deply a sample HTML webpage to an MDB GO server follow these steps:
 
 1. Register for an MDB GO account:
 
+![MDB GO Register](https://raw.githubusercontent.com/codeadamca/mdbgo-deploy-html/main/_readme/screenshot-deployed.png)
+
 2. Using NPM install the MDB GO CLI (Command Line Interfact):
 
   ```sh
